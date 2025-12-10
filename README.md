@@ -61,7 +61,7 @@ Clean and easy-to-understand visual layout
 ├── 📂 SQL_Queries/
 │     └── sales_queries.sql
 ├── 📂 Data/
-│     └── pizza_sales.csv (or Excel file)
+│     └── https://github.com/ashish-jha04/PIZZA-SALES-REPORT-/blob/main/pizza_sales.csv
 └── 📂 Images/
       └── dashboard_preview.png
 
