@@ -57,7 +57,7 @@ Clean and easy-to-understand visual layout
 📁 Project Structure
 📦 Pizza-Sales-Analysis
 ├── 📄 README.md
-├── 📊 Pizza_Sales_Dashboard.pbix
+├── 📊 https://github.com/ashish-jha04/PIZZA-SALES-REPORT-/blob/main/Pizza%20Analysis.pbix
 ├── 📂 SQL_Queries/
 │     └── sales_queries.sql
 ├── 📂 Data/
