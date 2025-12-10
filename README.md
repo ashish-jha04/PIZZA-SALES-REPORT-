@@ -63,7 +63,7 @@ Clean and easy-to-understand visual layout
 ├── 📂 Data/
 │     └── https://github.com/ashish-jha04/PIZZA-SALES-REPORT-/blob/main/pizza_sales.csv
 └── 📂 Images/
-      └── dashboard_preview.png
+      └── https://github.com/ashish-jha04/PIZZA-SALES-REPORT-/blob/main/Screenshot%202025-12-10%20172839.png
 
 🚀 How to Use
 
